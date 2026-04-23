@@ -1,0 +1,101 @@
+ID,type,keywords,mapped_category,mapping_status,relevance
+0,topic,"standard, business, group, consortium, effectiveness, study, social, finding, network, developing",Unknown,NOVEL,1
+1,topic,"enterprise, organization, business, ea, erp, management, paper, architecture, based, process",Unknown,NOVEL,34
+2,topic,"service, customer, value, quality, study, experience, springer, model, robot, business",Unknown,NOVEL,13
+3,topic,"firm, attack, cyber, security, investment, business, medium, stock, study, platform",Unknown,NOVEL,8
+4,topic,"risk, cyber, method, assessment, vulnerability, information, present, modeling, module, paper",Unknown,NOVEL,3
+5,topic,"market, model, software, product, business, line, trading, price, springer, study",Unknown,NOVEL,8
+6,topic,"story, news, share, user, false, fake, believed, sharing, likely, effect",Unknown,NOVEL,1
+7,topic,"smart, city, technology, value, barrier, accommodation, study, device, development, literature",Unknown,NOVEL,5
+8,topic,"research, information, literature, technology, future, science, ai, issue, study, development",Unknown,NOVEL,18
+9,topic,"component, software, oriented, problem, based, element, approach, identified, object, model",Unknown,NOVEL,1
+10,topic,"model, based, data, springer, proposed, business, medium, approach, science, method",Unknown,NOVEL,103
+11,topic,"software, user, vendor, trust, spyware, application, protection, perception, operation, privacy",Unknown,NOVEL,1
+12,topic,"business, service, process, cloud, code, source, approach, problem, knowledge, component",Unknown,NOVEL,3
+13,topic,"model, detection, attack, malware, adversarial, android, learning, using, policy, fooling",Unknown,NOVEL,2
+14,topic,"social, disaster, medium, role, using, consequence, action, management, structure, official",Unknown,NOVEL,1
+15,topic,"security, behavioral, insider, complexity, role, information, workplace, protection, ability, resource",Unknown,NOVEL,1
+16,topic,"user, social, information, medium, based, springer, business, platform, online, service",Unknown,NOVEL,27
+17,topic,"student, learning, group, medium, online, presence, business, study, instructor, using",Unknown,NOVEL,6
+18,topic,"agent, learning, multi, environment, based, evacuation, behavior, paper, crowdsourcing, spatial",Unknown,NOVEL,6
+19,topic,"information, supply, chain, knowledge, leakage, sharing, flexibility, study, business, organization",Artificial Intelligence and Machine Learning,MAPPED,3
+20,topic,"ai, study, intelligence, artificial, author, data, springer, technology, research, responsible",Artificial Intelligence and Machine Learning,MAPPED,37
+21,topic,"mobile, payment, network, use, device, study, business, springer, user, service",Unknown,NOVEL,9
+22,topic,"security, internet, iot, springer, data, business, service, medium, user, key",Unknown,NOVEL,23
+23,topic,"data, open, use, value, capability, architecture, software, citizen, methodology, public",Unknown,NOVEL,4
+24,topic,"service, web, business, model, process, approach, based, science, application, new",Unknown,NOVEL,36
+25,topic,"user, consumer, study, online, social, springer, research, intention, medium, behavior",Unknown,NOVEL,42
+26,topic,"customer, service, value, quality, satisfaction, study, related, china, industry, relationship",Unknown,NOVEL,1
+27,topic,"application, rfid, flexrfid, mobile, business, state, modeling, development, based, information",Unknown,NOVEL,2
+28,topic,"smart, object, home, query, paper, technology, based, springer, service, business",Unknown,NOVEL,32
+29,topic,"review, online, product, springer, customer, sentiment, decision, md, information, rating",Unknown,NOVEL,10
+30,topic,"business, process, constraint, management, collaborative, paper, bpm, activity, method, based",Artificial Intelligence and Machine Learning,MAPPED,5
+31,topic,"use, mi, intensity, mobile, self, internet, variable, captured, access, acceptance",Unknown,NOVEL,1
+32,topic,"data, quality, cloud, integration, model, springer, web, process, warehouse, training",Unknown,NOVEL,6
+33,topic,"process, compliance, constraint, business, semantic, method, state, non, error, level",Artificial Intelligence and Machine Learning,MAPPED,2
+34,topic,"decision, group, emergency, consensus, making, er, response, data, methodology, new",Unknown,NOVEL,1
+35,topic,"language, sign, expression, facial, recognition, gfes, study, construction, discourse, corpus",Unknown,NOVEL,1
+36,topic,"study, springer, business, medium, science, framework, research, digital, government, llc",Unknown,NOVEL,113
+37,topic,"simulation, modeling, computer, number, complex, real, study, object, world, ability",Unknown,NOVEL,1
+38,topic,"ai, ethical, generative, data, study, financial, tension, decision, making, impact",Artificial Intelligence and Machine Learning,MAPPED,2
+39,topic,"information, springer, business, medium, science, based, paper, approach, data, network",Unknown,NOVEL,382
+40,topic,"cost, blockchain, execution, business, process, limit, service, quality, cloud, blockchains",Artificial Intelligence and Machine Learning,MAPPED,1
+41,topic,"health, information, study, usage, environmental, hip, service, science, search, springer",Unknown,NOVEL,3
+42,topic,"news, portal, online, information, spread, major, small, dissemination, pattern, exchange",Unknown,NOVEL,1
+43,topic,"commerce, social, user, information, value, theory, enterprise, share, proposition, electronic",Unknown,NOVEL,2
+44,topic,"impulsive, buying, online, level, development, website, economic, research, meta, analysis",Unknown,NOVEL,1
+45,topic,"trust, model, initial, study, effect, online, business, based, result, springer",Unknown,NOVEL,14
+46,topic,"service, business, web, based, resource, springer, science, medium, information, user",Unknown,NOVEL,65
+47,topic,"network, peer, super, intelligent, algorithm, cycle, attack, based, number, overlay",Unknown,NOVEL,6
+48,topic,"security, information, investment, springer, breach, study, science, medium, business, organization",Unknown,NOVEL,24
+49,topic,"process, business, model, knowledge, mining, event, data, approach, log, team",Unknown,NOVEL,12
+50,topic,"network, heterogeneous, measure, path, object, meta, relevance, proposed, specified, measurement",Unknown,NOVEL,1
+51,topic,"knowledge, management, process, sharing, information, business, based, research, science, springer",Unknown,NOVEL,46
+52,topic,"technology, use, study, organization, value, digital, case, industry, factor, information",Unknown,NOVEL,7
+53,topic,"ea, development, lack, collaboration, obstacle, communication, practitioner, improve, personnel, enterprise",Unknown,NOVEL,1
+54,topic,"privacy, information, user, springer, disclosure, based, study, medium, adoption, data",Unknown,NOVEL,14
+55,topic,"learning, success, prior, experience, failure, borrower, subsequent, individual, behavior, study",Unknown,NOVEL,1
+56,topic,"social, medium, study, springer, business, user, data, research, use, science",Unknown,NOVEL,60
+57,topic,"industry, technology, business, study, value, springer, sustainability, capability, support, different",Unknown,NOVEL,7
+58,topic,"business, model, study, medium, springer, process, data, company, science, value",Unknown,NOVEL,37
+59,topic,"supply, chain, technology, data, blockchain, springer, industry, dynamic, resilience, company",Artificial Intelligence and Machine Learning,MAPPED,7
+60,topic,"cloud, algorithm, infrastructure, performance, environment, proposed, multi, scheduling, service, task",Unknown,NOVEL,3
+61,topic,"poverty, mobile, money, inequality, severity, innovation, income, used, th, age",Unknown,NOVEL,1
+62,topic,"query, structural, estimation, algorithm, approach, xhqe, accuracy, xml, synopsis, selectivity",Unknown,NOVEL,1
+63,topic,"participation, cybersecurity, research, protection, vsn, education, model, making, importance, theory",Unknown,NOVEL,1
+64,topic,"learning, springer, model, study, medium, based, business, research, feature, science",Unknown,NOVEL,27
+65,topic,"data, springer, medium, business, science, big, based, paper, study, approach",Unknown,NOVEL,65
+66,topic,"technology, study, business, project, information, value, model, research, springer, medium",Unknown,NOVEL,106
+67,topic,"review, effect, usefulness, anonymity, reviewer, helpfulness, anonymous, text, site, topic",Unknown,NOVEL,2
+68,topic,"rfid, tag, protocol, application, springer, technology, business, science, event, medium",Unknown,NOVEL,15
+69,topic,"mobile, data, service, consumer, usage, influence, perceived, behavior, model, context",Unknown,NOVEL,1
+70,topic,"model, test, case, generation, criterion, use, checking, assisted, framework, transformation",Unknown,NOVEL,2
+71,topic,"context, view, user, ubiquitous, service, process, adaptation, mobile, enterprise, interface",Unknown,NOVEL,1
+72,topic,"cloud, public, private, hybrid, paper, capacity, scheduling, cost, marketplace, model",Unknown,NOVEL,2
+73,topic,"freelancer, information, im, platform, response, order, rate, crowdsourcing, task, finding",Unknown,NOVEL,1
+74,topic,"green, practice, coordination, performance, environmental, manufacturing, study, marketing, alignment, firm",Unknown,NOVEL,1
+75,topic,"project, recovery, process, leadership, organization, troubled, complexity, success, effectiveness, product",Unknown,NOVEL,1
+76,topic,"mf, theory, flow, science, material, technology, nature, economic, industry, social",Unknown,NOVEL,1
+77,topic,"clustering, feature, vector, method, proposed, network, pattern, space, gravitation, force",Unknown,NOVEL,1
+78,topic,"news, fake, feature, model, social, medium, study, user, context, springer",Unknown,NOVEL,4
+79,topic,"structure, protein, contact, map, case, based, approach, reasoning, determined, sequence",Unknown,NOVEL,1
+80,topic,"ad, consumer, design, behavior, online, type, feature, response, behavioral, passive",Unknown,NOVEL,1
+81,topic,"chatbot, customer, service, purchase, evaluation, overload, anthropomorphism, human, trust, chatbots",Unknown,NOVEL,1
+82,topic,"security, behavior, compliance, threat, leadership, research, study, individual, oriented, response",Unknown,NOVEL,2
+83,topic,"peer, object, target, acquaintance, manipulate, access, application, satisfied, satisfiability, distributed",Unknown,NOVEL,1
+84,topic,"collaboration, authorization, policy, cross, control, individual, ehealth, border, different, type",Unknown,NOVEL,1
+85,topic,"etl, workflow, generator, schema, case, facility, test, flow, control, data",Unknown,NOVEL,1
+86,topic,"vr, dementia, rt, model, people, based, adult, proposed, older, reminiscence",Unknown,NOVEL,1
+87,topic,"rfid, tree, density, high, query, threshold, identification, jumping, level, collision",Unknown,NOVEL,1
+88,topic,"decision, information, support, making, springer, business, based, science, medium, framework",Unknown,NOVEL,44
+89,topic,"chain, supply, medium, social, analysis, performance, information, sentiment, content, member",Artificial Intelligence and Machine Learning,MAPPED,1
+90,topic,"cloud, computing, adoption, technology, study, research, firm, business, service, springer",Unknown,NOVEL,13
+91,topic,"privacy, database, control, information, flow, db, access, regulation, security, view",Unknown,NOVEL,1
+92,topic,"social, sn, behavior, use, user, study, site, business, benefit, adoption",Unknown,NOVEL,4
+93,topic,"provider, hie, care, use, license, performance, population, prior, perception, health",Unknown,NOVEL,1
+94,topic,"privacy, information, related, organization, activity, force, data, study, strategy, business",Unknown,NOVEL,1
+95,topic,"information, privacy, use, user, behavior, concern, psychological, surveillance, reactance, boundary",Unknown,NOVEL,1
+96,topic,"process, management, business, decision, model, enterprise, networked, dynamic, modeling, challenge",Unknown,NOVEL,1
+97,topic,"use, intention, mobile, model, user, study, springer, perceived, usage, technology",Unknown,NOVEL,44
+98,topic,"learning, intelligence, amplification, knowledge, adoption, decision, process, human, cd, case",Unknown,NOVEL,1
+99,topic,"process, business, management, information, springer, technology, model, paper, science, new",Unknown,NOVEL,32

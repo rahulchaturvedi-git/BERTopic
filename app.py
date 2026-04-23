@@ -1,24 +1,41 @@
+import gradio as gr
 from agent import ResearchAgent
-import traceback
 
-if __name__ == "__main__":
-    agent = ResearchAgent()
+agent = ResearchAgent()
 
-    # Hardcoded path for minimal CLI
-    file_path = r"D:\Rahul\SPJIMR\bertopic\my_csv.csv"
-
+def run_pipeline(file):
     try:
-        result = agent.execute_pipeline(file_path)
-        
+        if file is None:
+            return "Upload a CSV file", None, None, None, None
+
+        result = agent.execute_pipeline(file.name)
+
         if "error" in result:
-            print("\n=== PIPELINE FAILED ===\n")
-            print(f"Error: {result['error']}")
-        else:
-            print("\n=== PIPELINE COMPLETE ===\n")
-            print("Results summary:")
-            print(f"- Documents: {result.get('num_documents', 'N/A')}")
-            print(f"- Topics: {result.get('num_topics', 'N/A')}")
-    
+            return result["error"], None, None, None, None
+
+        return (
+            "✅ Pipeline completed",
+            "comparison.csv",
+            "taxonomy_map.json",
+            "topic_review_table.csv",
+            "keywords.csv"
+        )
+
     except Exception as e:
-        print(f"\n❌ Unexpected error: {str(e)}")
-        traceback.print_exc()
+        return str(e), None, None, None, None
+
+
+demo = gr.Interface(
+    fn=run_pipeline,
+    inputs=gr.File(label="Upload CSV"),
+    outputs=[
+        gr.Textbox(label="Status"),
+        gr.File(label="Download comparison.csv"),
+        gr.File(label="Download taxonomy_map.json"),
+        gr.File(label="Download topic_review_table.csv"),
+        gr.File(label="Download keywords.csv"),
+    ],
+    title="Topic Modeling App"
+)
+
+demo.launch(share=True)

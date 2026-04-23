@@ -1,101 +1,101 @@
 topic_id,keywords,label,document_count
-0,"social, social medium, sn, medium, identity",Social | Social Medium | Sn,57
-1,"health, healthcare, care, responsible, patient",Health | Healthcare | Care,44
-2,"knowledge, knowledge sharing, sharing, management, knowledge management",Knowledge | Knowledge Sharing | Sharing,36
-3,"smart, home, smart home, smart city, city",Smart | Home | Smart Home,34
-4,"supply, supply chain, chain, food, chain management",Supply | Supply Chain | Chain,31
-5,"feature, image, classification, method, accuracy",Feature | Image | Classification,31
-6,"learning, student, learner, teacher, course",Learning | Student | Learner,31
-7,"network, peer, social network, peer peer, cluster",Network | Peer | Social Network,28
-8,"cloud, cloud computing, computing, adoption, service",Cloud | Cloud Computing | Computing,27
-9,"information, modeling, approach, complex, philosophy",Information | Modeling | Approach,27
-10,"service, web service, web, selection, service discovery",Service | Web Service | Web,27
-11,"privacy, concern, protection, information privacy, privacy protection",Privacy | Concern | Protection,25
-12,"software, software development, component, development, software product",Software | Software Development | Component,25
-13,"digital, digital technology, divide, digital divide, country",Digital | Digital Technology | Divide,25
-14,"sustainability, green, smes, environmental, firm",Sustainability | Green | Smes,25
-15,"mobile, phone, mobile phone, poverty, device",Mobile | Phone | Mobile Phone,24
-16,"enterprise, architecture, enterprise architecture, framework, business",Enterprise | Architecture | Enterprise Architecture,24
-17,"investment, security investment, security, cybersecurity, spectrum",Investment | Security Investment | Security,24
-18,"attack, cyber, vulnerability, hacker, cyber risk",Attack | Cyber | Vulnerability,24
-19,"domain, text, method, explanation, language",Domain | Text | Method,23
-20,"security, information security, security policy, incident, behavior",Security | Information Security | Security Policy,23
-21,"query, xml, document, schema, object",Query | Xml | Document,23
-22,"use, acceptance, utaut, technology, factor",Use | Acceptance | Utaut,23
-23,"review, product, online review, online, helpfulness",Review | Product | Online Review,22
-24,"customer, chatbot, loyalty, marketing, customer value",Customer | Chatbot | Loyalty,22
-25,"capability, firm, bda, competitive, performance",Capability | Firm | Bda,22
-26,"government, citizen, public, government service, local government",Government | Citizen | Public,21
-27,"game, analytics, online game, data, data analytics",Game | Analytics | Online Game,21
-28,"design, information, exchange, information exchange, idea",Design | Information | Exchange,21
-29,"model, test, test case, criterion, transformation",Model | Test | Test Case,21
-30,"rfid, tag, protocol, rfid technology, identification",Rfid | Tag | Protocol,20
-31,"disaster, disaster management, flood, social medium, emergency",Disaster | Disaster Management | Flood,20
-32,"data, quality, data quality, data warehouse, warehouse",Data | Quality | Data Quality,20
-33,"consumer, commerce, purchase, online, intention",Consumer | Commerce | Purchase,20
-34,"community, group, member, social, online community",Community | Group | Member,20
-35,"business process, process, business, bpm, process management",Business Process | Process | Business,19
-36,"decision, decision making, making, ds, decision support",Decision | Decision Making | Making,19
-37,"web service, web, service, component, application",Web Service | Web | Service,19
-38,"research, citation, journal, isf, failure",Research | Citation | Journal,18
-39,"market, rumor, stock, price, investor",Market | Rumor | Stock,18
-40,"industry, technology, industry technology, sustainability, economic",Industry | Technology | Industry Technology,17
-41,"detection, malware, attack, fraud, adversarial",Detection | Malware | Attack,17
-42,"platform, metaverse, content, digital platform, continuance",Platform | Metaverse | Content,16
-43,"news, fake news, fake, story, portal",News | Fake News | Fake,16
-44,"payment, mobile payment, mobile, perceived, usage",Payment | Mobile Payment | Mobile,16
-45,"agent, multi agent, evacuation, reasoning, multi",Agent | Multi Agent | Evacuation,16
-46,"workflow, management, generator, authorization, process",Workflow | Management | Generator,15
-47,"ethical, human, generative, ethic, tension",Ethical | Human | Generative,15
-48,"iot, thing, internet thing, internet, thing iot",Iot | Thing | Internet Thing,15
-49,"patient, organ, cancer, clinical, prediction",Patient | Organ | Cancer,15
-50,"adoption, institutional, pressure, institutional pressure, assimilation",Adoption | Institutional | Pressure,15
-51,"protein, gene, pattern, mining, fault",Protein | Gene | Pattern,15
-52,"outsourcing, vendor, success, contract, relationship",Outsourcing | Vendor | Success,14
-53,"trust, distrust, consumer, building, congruence",Trust | Distrust | Consumer,14
-54,"team, audit, internal, team performance, virtual",Team | Audit | Internal,14
-55,"search, concept, semantic, engine, fuzzy",Search | Concept | Semantic,14
-56,"web, application, web application, extremist, integration",Web | Application | Web Application,13
-57,"prediction, rating, password, accuracy, method",Prediction | Rating | Password,13
-58,"innovation, firm, service innovation, bus, capability",Innovation | Firm | Service Innovation,13
-59,"ict, diffusion, country, intervention, inequality",Ict | Diffusion | Country,13
-60,"project, project management, offshore, success, recovery",Project | Project Management | Offshore,13
-61,"governance, data governance, participation, organization, citizen",Governance | Data Governance | Participation,13
-62,"crisis, pandemic, covid, emotion, mindfulness",Crisis | Pandemic | Covid,12
-63,"recommender, content, recommendation, personality, user",Recommender | Content | Recommendation,12
-64,"open data, big data, big, open, data",Open Data | Big Data | Big,12
-65,"erp, enterprise resource, resource planning, enterprise, assimilation",Erp | Enterprise Resource | Resource Planning,12
-66,"collaboration, process, event log, mining, fragment",Collaboration | Process | Event Log,12
-67,"authentication, security, protocol, key, authentication protocol",Authentication | Security | Protocol,11
-68,"event, log, event processing, event data, anomaly",Event | Log | Event Processing,11
-69,"service, customer, service quality, service provider, customer expectation",Service | Customer | Service Quality,11
-70,"resource, resource allocation, allocation, grid, provider",Resource | Resource Allocation | Allocation,11
-71,"energy, user, ubiquitous, user interface, interface",Energy | User | Ubiquitous,10
-72,"negotiation, electronic, electronic market, procurement, market",Negotiation | Electronic | Electronic Market,10
-73,"interaction, cs, service, fuel, client",Interaction | Cs | Service,10
-74,"blockchain, token, blockchain technology, crypto, voting",Blockchain | Token | Blockchain Technology,10
-75,"compliance, checking, process, constraint, regulatory",Compliance | Checking | Process,10
-76,"robot, hri, exploration, attractiveness, hospitality",Robot | Hri | Exploration,10
-77,"risk, risk assessment, injury, assessment, insider",Risk | Risk Assessment | Injury,10
-78,"financial, financial distress, distress, learning, machine",Financial | Financial Distress | Distress,9
-79,"commerce, electronic commerce, transit, merge, secure",Commerce | Electronic Commerce | Transit,9
-80,"user, caching, service, information provision, isps",User | Caching | Service,9
-81,"problem, tcp, constraint, heuristic, algorithm",Problem | Tcp | Constraint,9
-82,"abstract, available, editor, guest, introduction",Abstract | Available | Editor,9
-83,"crowdsourcing, contest, crowd, freelancer, convergence",Crowdsourcing | Contest | Crowd,9
-84,"emergency, emergency management, universal, cab, management",Emergency | Emergency Management | Universal,9
-85,"sentiment, twitter, sentiment analysis, classification, word",Sentiment | Twitter | Sentiment Analysis,8
-86,"virtual, satisfaction, turnover, job satisfaction, dementia",Virtual | Satisfaction | Turnover,8
-87,"code, program, source code, instruction, blue",Code | Program | Source Code,7
-88,"productivity, intranet, vision, technological, organization",Productivity | Intranet | Vision,7
-89,"internet, internet access, addiction, habit, access",Internet | Internet Access | Addiction,7
-90,"performance, fund, task performance, employee performance, smartphone addiction",Performance | Fund | Task Performance,7
-91,"graph, bias, property, temporal, multidimensional",Graph | Bias | Property,7
-92,"cultural value, value, metaverses, computer, child",Cultural Value | Value | Metaverses,7
-93,"database, relational, mapping, relational database, schema",Database | Relational | Mapping,7
-94,"reality, extended reality, task, metaverse, rehabilitation",Reality | Extended Reality | Task,6
-95,"access control, control, access, purpose, control policy",Access Control | Control | Access,5
-96,"video, topic, collaborative tagging, detection, explanatory",Video | Topic | Collaborative Tagging,5
-97,"justice, perceived, privacy, privacy risk, perceived usefulness",Justice | Perceived | Privacy,4
-98,"rdf, reporting, graph, query, processing",Rdf | Reporting | Graph,4
-99,"incident, social responsibility, responsibility, price drop, drop",Incident | Social Responsibility | Responsibility,3
+0,"standard, business, group, consortium, effectiveness, study, social, finding, network, developing",standard | business | group,1
+1,"enterprise, organization, business, ea, erp, management, paper, architecture, based, process",enterprise | organization | business,34
+2,"service, customer, value, quality, study, experience, springer, model, robot, business",service | customer | value,13
+3,"firm, attack, cyber, security, investment, business, medium, stock, study, platform",firm | attack | cyber,8
+4,"risk, cyber, method, assessment, vulnerability, information, present, modeling, module, paper",risk | cyber | method,3
+5,"market, model, software, product, business, line, trading, price, springer, study",market | model | software,8
+6,"story, news, share, user, false, fake, believed, sharing, likely, effect",story | news | share,1
+7,"smart, city, technology, value, barrier, accommodation, study, device, development, literature",smart | city | technology,5
+8,"research, information, literature, technology, future, science, ai, issue, study, development",research | information | literature,18
+9,"component, software, oriented, problem, based, element, approach, identified, object, model",component | software | oriented,1
+10,"model, based, data, springer, proposed, business, medium, approach, science, method",model | based | data,103
+11,"software, user, vendor, trust, spyware, application, protection, perception, operation, privacy",software | user | vendor,1
+12,"business, service, process, cloud, code, source, approach, problem, knowledge, component",business | service | process,3
+13,"model, detection, attack, malware, adversarial, android, learning, using, policy, fooling",model | detection | attack,2
+14,"social, disaster, medium, role, using, consequence, action, management, structure, official",social | disaster | medium,1
+15,"security, behavioral, insider, complexity, role, information, workplace, protection, ability, resource",security | behavioral | insider,1
+16,"user, social, information, medium, based, springer, business, platform, online, service",user | social | information,27
+17,"student, learning, group, medium, online, presence, business, study, instructor, using",student | learning | group,6
+18,"agent, learning, multi, environment, based, evacuation, behavior, paper, crowdsourcing, spatial",agent | learning | multi,6
+19,"information, supply, chain, knowledge, leakage, sharing, flexibility, study, business, organization",information | supply | chain,3
+20,"ai, study, intelligence, artificial, author, data, springer, technology, research, responsible",ai | study | intelligence,37
+21,"mobile, payment, network, use, device, study, business, springer, user, service",mobile | payment | network,9
+22,"security, internet, iot, springer, data, business, service, medium, user, key",security | internet | iot,23
+23,"data, open, use, value, capability, architecture, software, citizen, methodology, public",data | open | use,4
+24,"service, web, business, model, process, approach, based, science, application, new",service | web | business,36
+25,"user, consumer, study, online, social, springer, research, intention, medium, behavior",user | consumer | study,42
+26,"customer, service, value, quality, satisfaction, study, related, china, industry, relationship",customer | service | value,1
+27,"application, rfid, flexrfid, mobile, business, state, modeling, development, based, information",application | rfid | flexrfid,2
+28,"smart, object, home, query, paper, technology, based, springer, service, business",smart | object | home,32
+29,"review, online, product, springer, customer, sentiment, decision, md, information, rating",review | online | product,10
+30,"business, process, constraint, management, collaborative, paper, bpm, activity, method, based",business | process | constraint,5
+31,"use, mi, intensity, mobile, self, internet, variable, captured, access, acceptance",use | mi | intensity,1
+32,"data, quality, cloud, integration, model, springer, web, process, warehouse, training",data | quality | cloud,6
+33,"process, compliance, constraint, business, semantic, method, state, non, error, level",process | compliance | constraint,2
+34,"decision, group, emergency, consensus, making, er, response, data, methodology, new",decision | group | emergency,1
+35,"language, sign, expression, facial, recognition, gfes, study, construction, discourse, corpus",language | sign | expression,1
+36,"study, springer, business, medium, science, framework, research, digital, government, llc",study | springer | business,113
+37,"simulation, modeling, computer, number, complex, real, study, object, world, ability",simulation | modeling | computer,1
+38,"ai, ethical, generative, data, study, financial, tension, decision, making, impact",ai | ethical | generative,2
+39,"information, springer, business, medium, science, based, paper, approach, data, network",information | springer | business,382
+40,"cost, blockchain, execution, business, process, limit, service, quality, cloud, blockchains",cost | blockchain | execution,1
+41,"health, information, study, usage, environmental, hip, service, science, search, springer",health | information | study,3
+42,"news, portal, online, information, spread, major, small, dissemination, pattern, exchange",news | portal | online,1
+43,"commerce, social, user, information, value, theory, enterprise, share, proposition, electronic",commerce | social | user,2
+44,"impulsive, buying, online, level, development, website, economic, research, meta, analysis",impulsive | buying | online,1
+45,"trust, model, initial, study, effect, online, business, based, result, springer",trust | model | initial,14
+46,"service, business, web, based, resource, springer, science, medium, information, user",service | business | web,65
+47,"network, peer, super, intelligent, algorithm, cycle, attack, based, number, overlay",network | peer | super,6
+48,"security, information, investment, springer, breach, study, science, medium, business, organization",security | information | investment,24
+49,"process, business, model, knowledge, mining, event, data, approach, log, team",process | business | model,12
+50,"network, heterogeneous, measure, path, object, meta, relevance, proposed, specified, measurement",network | heterogeneous | measure,1
+51,"knowledge, management, process, sharing, information, business, based, research, science, springer",knowledge | management | process,46
+52,"technology, use, study, organization, value, digital, case, industry, factor, information",technology | use | study,7
+53,"ea, development, lack, collaboration, obstacle, communication, practitioner, improve, personnel, enterprise",ea | development | lack,1
+54,"privacy, information, user, springer, disclosure, based, study, medium, adoption, data",privacy | information | user,14
+55,"learning, success, prior, experience, failure, borrower, subsequent, individual, behavior, study",learning | success | prior,1
+56,"social, medium, study, springer, business, user, data, research, use, science",social | medium | study,60
+57,"industry, technology, business, study, value, springer, sustainability, capability, support, different",industry | technology | business,7
+58,"business, model, study, medium, springer, process, data, company, science, value",business | model | study,37
+59,"supply, chain, technology, data, blockchain, springer, industry, dynamic, resilience, company",supply | chain | technology,7
+60,"cloud, algorithm, infrastructure, performance, environment, proposed, multi, scheduling, service, task",cloud | algorithm | infrastructure,3
+61,"poverty, mobile, money, inequality, severity, innovation, income, used, th, age",poverty | mobile | money,1
+62,"query, structural, estimation, algorithm, approach, xhqe, accuracy, xml, synopsis, selectivity",query | structural | estimation,1
+63,"participation, cybersecurity, research, protection, vsn, education, model, making, importance, theory",participation | cybersecurity | research,1
+64,"learning, springer, model, study, medium, based, business, research, feature, science",learning | springer | model,27
+65,"data, springer, medium, business, science, big, based, paper, study, approach",data | springer | medium,65
+66,"technology, study, business, project, information, value, model, research, springer, medium",technology | study | business,106
+67,"review, effect, usefulness, anonymity, reviewer, helpfulness, anonymous, text, site, topic",review | effect | usefulness,2
+68,"rfid, tag, protocol, application, springer, technology, business, science, event, medium",rfid | tag | protocol,15
+69,"mobile, data, service, consumer, usage, influence, perceived, behavior, model, context",mobile | data | service,1
+70,"model, test, case, generation, criterion, use, checking, assisted, framework, transformation",model | test | case,2
+71,"context, view, user, ubiquitous, service, process, adaptation, mobile, enterprise, interface",context | view | user,1
+72,"cloud, public, private, hybrid, paper, capacity, scheduling, cost, marketplace, model",cloud | public | private,2
+73,"freelancer, information, im, platform, response, order, rate, crowdsourcing, task, finding",freelancer | information | im,1
+74,"green, practice, coordination, performance, environmental, manufacturing, study, marketing, alignment, firm",green | practice | coordination,1
+75,"project, recovery, process, leadership, organization, troubled, complexity, success, effectiveness, product",project | recovery | process,1
+76,"mf, theory, flow, science, material, technology, nature, economic, industry, social",mf | theory | flow,1
+77,"clustering, feature, vector, method, proposed, network, pattern, space, gravitation, force",clustering | feature | vector,1
+78,"news, fake, feature, model, social, medium, study, user, context, springer",news | fake | feature,4
+79,"structure, protein, contact, map, case, based, approach, reasoning, determined, sequence",structure | protein | contact,1
+80,"ad, consumer, design, behavior, online, type, feature, response, behavioral, passive",ad | consumer | design,1
+81,"chatbot, customer, service, purchase, evaluation, overload, anthropomorphism, human, trust, chatbots",chatbot | customer | service,1
+82,"security, behavior, compliance, threat, leadership, research, study, individual, oriented, response",security | behavior | compliance,2
+83,"peer, object, target, acquaintance, manipulate, access, application, satisfied, satisfiability, distributed",peer | object | target,1
+84,"collaboration, authorization, policy, cross, control, individual, ehealth, border, different, type",collaboration | authorization | policy,1
+85,"etl, workflow, generator, schema, case, facility, test, flow, control, data",etl | workflow | generator,1
+86,"vr, dementia, rt, model, people, based, adult, proposed, older, reminiscence",vr | dementia | rt,1
+87,"rfid, tree, density, high, query, threshold, identification, jumping, level, collision",rfid | tree | density,1
+88,"decision, information, support, making, springer, business, based, science, medium, framework",decision | information | support,44
+89,"chain, supply, medium, social, analysis, performance, information, sentiment, content, member",chain | supply | medium,1
+90,"cloud, computing, adoption, technology, study, research, firm, business, service, springer",cloud | computing | adoption,13
+91,"privacy, database, control, information, flow, db, access, regulation, security, view",privacy | database | control,1
+92,"social, sn, behavior, use, user, study, site, business, benefit, adoption",social | sn | behavior,4
+93,"provider, hie, care, use, license, performance, population, prior, perception, health",provider | hie | care,1
+94,"privacy, information, related, organization, activity, force, data, study, strategy, business",privacy | information | related,1
+95,"information, privacy, use, user, behavior, concern, psychological, surveillance, reactance, boundary",information | privacy | use,1
+96,"process, management, business, decision, model, enterprise, networked, dynamic, modeling, challenge",process | management | business,1
+97,"use, intention, mobile, model, user, study, springer, perceived, usage, technology",use | intention | mobile,44
+98,"learning, intelligence, amplification, knowledge, adoption, decision, process, human, cd, case",learning | intelligence | amplification,1
+99,"process, business, management, information, springer, technology, model, paper, science, new",process | business | management,32
