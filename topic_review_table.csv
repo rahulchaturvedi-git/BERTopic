@@ -1,0 +1,101 @@
+topic_id,keywords,label,document_count
+0,"social, social medium, sn, medium, identity",Social | Social Medium | Sn,57
+1,"health, healthcare, care, responsible, patient",Health | Healthcare | Care,44
+2,"knowledge, knowledge sharing, sharing, management, knowledge management",Knowledge | Knowledge Sharing | Sharing,36
+3,"smart, home, smart home, smart city, city",Smart | Home | Smart Home,34
+4,"supply, supply chain, chain, food, chain management",Supply | Supply Chain | Chain,31
+5,"feature, image, classification, method, accuracy",Feature | Image | Classification,31
+6,"learning, student, learner, teacher, course",Learning | Student | Learner,31
+7,"network, peer, social network, peer peer, cluster",Network | Peer | Social Network,28
+8,"cloud, cloud computing, computing, adoption, service",Cloud | Cloud Computing | Computing,27
+9,"information, modeling, approach, complex, philosophy",Information | Modeling | Approach,27
+10,"service, web service, web, selection, service discovery",Service | Web Service | Web,27
+11,"privacy, concern, protection, information privacy, privacy protection",Privacy | Concern | Protection,25
+12,"software, software development, component, development, software product",Software | Software Development | Component,25
+13,"digital, digital technology, divide, digital divide, country",Digital | Digital Technology | Divide,25
+14,"sustainability, green, smes, environmental, firm",Sustainability | Green | Smes,25
+15,"mobile, phone, mobile phone, poverty, device",Mobile | Phone | Mobile Phone,24
+16,"enterprise, architecture, enterprise architecture, framework, business",Enterprise | Architecture | Enterprise Architecture,24
+17,"investment, security investment, security, cybersecurity, spectrum",Investment | Security Investment | Security,24
+18,"attack, cyber, vulnerability, hacker, cyber risk",Attack | Cyber | Vulnerability,24
+19,"domain, text, method, explanation, language",Domain | Text | Method,23
+20,"security, information security, security policy, incident, behavior",Security | Information Security | Security Policy,23
+21,"query, xml, document, schema, object",Query | Xml | Document,23
+22,"use, acceptance, utaut, technology, factor",Use | Acceptance | Utaut,23
+23,"review, product, online review, online, helpfulness",Review | Product | Online Review,22
+24,"customer, chatbot, loyalty, marketing, customer value",Customer | Chatbot | Loyalty,22
+25,"capability, firm, bda, competitive, performance",Capability | Firm | Bda,22
+26,"government, citizen, public, government service, local government",Government | Citizen | Public,21
+27,"game, analytics, online game, data, data analytics",Game | Analytics | Online Game,21
+28,"design, information, exchange, information exchange, idea",Design | Information | Exchange,21
+29,"model, test, test case, criterion, transformation",Model | Test | Test Case,21
+30,"rfid, tag, protocol, rfid technology, identification",Rfid | Tag | Protocol,20
+31,"disaster, disaster management, flood, social medium, emergency",Disaster | Disaster Management | Flood,20
+32,"data, quality, data quality, data warehouse, warehouse",Data | Quality | Data Quality,20
+33,"consumer, commerce, purchase, online, intention",Consumer | Commerce | Purchase,20
+34,"community, group, member, social, online community",Community | Group | Member,20
+35,"business process, process, business, bpm, process management",Business Process | Process | Business,19
+36,"decision, decision making, making, ds, decision support",Decision | Decision Making | Making,19
+37,"web service, web, service, component, application",Web Service | Web | Service,19
+38,"research, citation, journal, isf, failure",Research | Citation | Journal,18
+39,"market, rumor, stock, price, investor",Market | Rumor | Stock,18
+40,"industry, technology, industry technology, sustainability, economic",Industry | Technology | Industry Technology,17
+41,"detection, malware, attack, fraud, adversarial",Detection | Malware | Attack,17
+42,"platform, metaverse, content, digital platform, continuance",Platform | Metaverse | Content,16
+43,"news, fake news, fake, story, portal",News | Fake News | Fake,16
+44,"payment, mobile payment, mobile, perceived, usage",Payment | Mobile Payment | Mobile,16
+45,"agent, multi agent, evacuation, reasoning, multi",Agent | Multi Agent | Evacuation,16
+46,"workflow, management, generator, authorization, process",Workflow | Management | Generator,15
+47,"ethical, human, generative, ethic, tension",Ethical | Human | Generative,15
+48,"iot, thing, internet thing, internet, thing iot",Iot | Thing | Internet Thing,15
+49,"patient, organ, cancer, clinical, prediction",Patient | Organ | Cancer,15
+50,"adoption, institutional, pressure, institutional pressure, assimilation",Adoption | Institutional | Pressure,15
+51,"protein, gene, pattern, mining, fault",Protein | Gene | Pattern,15
+52,"outsourcing, vendor, success, contract, relationship",Outsourcing | Vendor | Success,14
+53,"trust, distrust, consumer, building, congruence",Trust | Distrust | Consumer,14
+54,"team, audit, internal, team performance, virtual",Team | Audit | Internal,14
+55,"search, concept, semantic, engine, fuzzy",Search | Concept | Semantic,14
+56,"web, application, web application, extremist, integration",Web | Application | Web Application,13
+57,"prediction, rating, password, accuracy, method",Prediction | Rating | Password,13
+58,"innovation, firm, service innovation, bus, capability",Innovation | Firm | Service Innovation,13
+59,"ict, diffusion, country, intervention, inequality",Ict | Diffusion | Country,13
+60,"project, project management, offshore, success, recovery",Project | Project Management | Offshore,13
+61,"governance, data governance, participation, organization, citizen",Governance | Data Governance | Participation,13
+62,"crisis, pandemic, covid, emotion, mindfulness",Crisis | Pandemic | Covid,12
+63,"recommender, content, recommendation, personality, user",Recommender | Content | Recommendation,12
+64,"open data, big data, big, open, data",Open Data | Big Data | Big,12
+65,"erp, enterprise resource, resource planning, enterprise, assimilation",Erp | Enterprise Resource | Resource Planning,12
+66,"collaboration, process, event log, mining, fragment",Collaboration | Process | Event Log,12
+67,"authentication, security, protocol, key, authentication protocol",Authentication | Security | Protocol,11
+68,"event, log, event processing, event data, anomaly",Event | Log | Event Processing,11
+69,"service, customer, service quality, service provider, customer expectation",Service | Customer | Service Quality,11
+70,"resource, resource allocation, allocation, grid, provider",Resource | Resource Allocation | Allocation,11
+71,"energy, user, ubiquitous, user interface, interface",Energy | User | Ubiquitous,10
+72,"negotiation, electronic, electronic market, procurement, market",Negotiation | Electronic | Electronic Market,10
+73,"interaction, cs, service, fuel, client",Interaction | Cs | Service,10
+74,"blockchain, token, blockchain technology, crypto, voting",Blockchain | Token | Blockchain Technology,10
+75,"compliance, checking, process, constraint, regulatory",Compliance | Checking | Process,10
+76,"robot, hri, exploration, attractiveness, hospitality",Robot | Hri | Exploration,10
+77,"risk, risk assessment, injury, assessment, insider",Risk | Risk Assessment | Injury,10
+78,"financial, financial distress, distress, learning, machine",Financial | Financial Distress | Distress,9
+79,"commerce, electronic commerce, transit, merge, secure",Commerce | Electronic Commerce | Transit,9
+80,"user, caching, service, information provision, isps",User | Caching | Service,9
+81,"problem, tcp, constraint, heuristic, algorithm",Problem | Tcp | Constraint,9
+82,"abstract, available, editor, guest, introduction",Abstract | Available | Editor,9
+83,"crowdsourcing, contest, crowd, freelancer, convergence",Crowdsourcing | Contest | Crowd,9
+84,"emergency, emergency management, universal, cab, management",Emergency | Emergency Management | Universal,9
+85,"sentiment, twitter, sentiment analysis, classification, word",Sentiment | Twitter | Sentiment Analysis,8
+86,"virtual, satisfaction, turnover, job satisfaction, dementia",Virtual | Satisfaction | Turnover,8
+87,"code, program, source code, instruction, blue",Code | Program | Source Code,7
+88,"productivity, intranet, vision, technological, organization",Productivity | Intranet | Vision,7
+89,"internet, internet access, addiction, habit, access",Internet | Internet Access | Addiction,7
+90,"performance, fund, task performance, employee performance, smartphone addiction",Performance | Fund | Task Performance,7
+91,"graph, bias, property, temporal, multidimensional",Graph | Bias | Property,7
+92,"cultural value, value, metaverses, computer, child",Cultural Value | Value | Metaverses,7
+93,"database, relational, mapping, relational database, schema",Database | Relational | Mapping,7
+94,"reality, extended reality, task, metaverse, rehabilitation",Reality | Extended Reality | Task,6
+95,"access control, control, access, purpose, control policy",Access Control | Control | Access,5
+96,"video, topic, collaborative tagging, detection, explanatory",Video | Topic | Collaborative Tagging,5
+97,"justice, perceived, privacy, privacy risk, perceived usefulness",Justice | Perceived | Privacy,4
+98,"rdf, reporting, graph, query, processing",Rdf | Reporting | Graph,4
+99,"incident, social responsibility, responsibility, price drop, drop",Incident | Social Responsibility | Responsibility,3
